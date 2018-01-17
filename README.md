@@ -13,3 +13,8 @@ Please be aware that this software was written in 2005/2006 and it is uploaded a
 I am planning to do a ~~couple~~  a lot of refactoring to improve the code. 
 
 This software may be of interest not only for the computer science community but also for the people interested on the biology side of the study. On my thesis there is a lot about the biology foundation of this subject. 
+
+The software has a rich graphical interface for creating the environment: setting the ant colony nest, number of ants, source of food and obstacles, it also has a configuration panel to configure parameters like pheromone evaporation rate.
+
+Here is an example: 
+![screenshot](doc/img/ScreenShot1.png)
