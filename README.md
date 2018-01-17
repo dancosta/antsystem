@@ -17,4 +17,4 @@ This software may be of interest not only for the computer science community but
 The software has a rich graphical interface for creating the environment: setting the ant colony nest, number of ants, source of food and obstacles, it also has a configuration panel to configure parameters like pheromone evaporation rate.
 
 Here is an example: 
-![screenshot](doc/img/ScreenShot1.png)
+![screenshot](doc/img/ScreenShot1.jpg)
