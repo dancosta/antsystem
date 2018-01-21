@@ -3,8 +3,6 @@
  *
  * Created on 15 de Julho de 2006, 12:16
  *
- * To change this template, choose Tools | Template Manager
- * and open the template in the editor.
  */
 
 package antsystem.controller;
@@ -17,7 +15,7 @@ import javax.swing.event.ChangeListener;
 
 /**
  *
- * @author danilo
+ * @author Danilo N Costa
  */
 public class MainFrameController implements StageListener, ChangeListener{
     

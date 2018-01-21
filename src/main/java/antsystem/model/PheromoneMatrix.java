@@ -3,15 +3,11 @@
  *
  * Created on 25 de Setembro de 2005, 17:34
  *
- * To change this template, choose Tools | Options and locate the template under
- * the Source Creation and Management node. Right-click the template and choose
- * Open. You can then make changes to the template in the Source Editor.
  */
 
 package antsystem.model;
 
 import java.awt.Graphics;
-import java.awt.Graphics2D;
 import java.awt.Point;
 import java.awt.image.BufferedImage;
 import java.util.Collections;
@@ -22,7 +18,7 @@ import java.util.Set;
 
 /**
  *
- * @author Danilo  Costa
+ * @author Danilo N Costa
  */
 public class PheromoneMatrix {
     

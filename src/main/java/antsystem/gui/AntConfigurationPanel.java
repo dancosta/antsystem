@@ -17,7 +17,7 @@ import javax.swing.event.ChangeListener;
 
 /**
  *
- * @author  danilo
+ * @author  Danilo N Costa
  */
 public class AntConfigurationPanel extends javax.swing.JPanel implements ChangeListener {
     

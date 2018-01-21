@@ -3,8 +3,6 @@
  *
  * Created on 26 de Junho de 2006, 21:54
  *
- * To change this template, choose Tools | Template Manager
- * and open the template in the editor.
  */
 
 package antsystem.model;
@@ -25,7 +23,7 @@ import java.util.List;
 
 /**
  *
- * @author danilo
+ * @author Danilo N Costa
  */
 public class Environment extends Stage {
     

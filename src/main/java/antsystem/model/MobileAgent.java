@@ -3,15 +3,13 @@
  *
  * Created on 11 de Junho de 2006, 13:19
  *
- * To change this template, choose Tools | Template Manager
- * and open the template in the editor.
  */
 
 package antsystem.model;
 
 /**
  *
- * @author danilo
+ * @author Danilo N Costa
  */
 public abstract class MobileAgent extends Thread{
     

@@ -3,8 +3,6 @@
  *
  * Created on 3 de Julho de 2006, 21:45
  *
- * To change this template, choose Tools | Template Manager
- * and open the template in the editor.
  */
 
 package antsystem.controller;
@@ -26,7 +24,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author danilo
+ * @author Danilo N Costa
  */
 public class SystemControlPanelController implements ActionListener{
     

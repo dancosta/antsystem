@@ -3,9 +3,6 @@
  *
  * Created on 25 de Setembro de 2005, 20:00
  *
- * To change this template, choose Tools | Options and locate the template under
- * the Source Creation and Management node. Right-click the template and choose
- * Open. You can then make changes to the template in the Source Editor.
  */
 
 package antsystem.model;
@@ -15,7 +12,7 @@ import java.awt.geom.Point2D;
 
 /**
  *
- * @author Danilo  Costa
+ * @author Danilo N Costa
  */
 public class Direction {
     public static final int NORTH = 1;

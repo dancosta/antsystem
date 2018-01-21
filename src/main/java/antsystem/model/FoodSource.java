@@ -2,9 +2,6 @@
  * FoodSource.java
  *
  * Created on 18 de Janeiro de 2007, 22:47
- *
- * To change this template, choose Tools | Template Manager
- * and open the template in the editor.
  */
 
 package antsystem.model;
@@ -14,13 +11,11 @@ import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.Graphics2D;
 import java.awt.Point;
-import java.awt.Shape;
-import java.awt.geom.Ellipse2D;
 import java.awt.geom.Rectangle2D;
 
 /**
  *
- * @author danilo
+ * @author Danilo N Costa
  */
 public class FoodSource extends Actor{
     private int amountOfFood;

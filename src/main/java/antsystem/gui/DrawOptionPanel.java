@@ -10,7 +10,7 @@ import javax.swing.ButtonGroup;
 
 /**
  *
- * @author  danilo
+ * @author  Danilo N Costa
  */
 public class DrawOptionPanel extends javax.swing.JPanel {
     ButtonGroup toolButtonGroup;

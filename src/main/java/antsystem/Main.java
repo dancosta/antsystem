@@ -3,9 +3,6 @@
  *
  * Created on 25 de Setembro de 2005, 16:51
  *
- * To change this template, choose Tools | Options and locate the template under
- * the Source Creation and Management node. Right-click the template and choose
- * Open. You can then make changes to the template in the Source Editor.
  */
 
 package antsystem;
@@ -21,7 +18,7 @@ import javax.swing.UIManager;
 
 /**
  *
- * @author Danilo  Costa
+ * @author Danilo N. Costa
  */
 public class Main {
     

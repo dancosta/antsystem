@@ -3,8 +3,6 @@
  *
  * Created on 19 de Janeiro de 2007, 17:28
  *
- * To change this template, choose Tools | Template Manager
- * and open the template in the editor.
  */
 
 package antsystem.model;
@@ -22,7 +20,7 @@ import java.util.Random;
 
 /**
  *
- * @author danilo
+ * @author Danilo N Costa
  */
 public class Ant3 extends Actor{
     private static int RIGHT_ANTENNA = 0;

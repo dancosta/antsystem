@@ -6,20 +6,19 @@
 
 package antsystem.gui;
 
-import antsystem.model.Environment;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.FlowLayout;
-import java.awt.ScrollPane;
-import javax.swing.JLabel;
+
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTabbedPane;
-import javax.swing.WindowConstants;
+
+import antsystem.model.Environment;
 
 /**
  *
- * @author  danilo
+ * @author  Danilo N Costa
  */
 public class MainFrame extends javax.swing.JFrame {
     private Environment environment;

@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  *
- * @author Danilo  Costa
+ * @author Danilo N Costa
  */
 public class ActionSupport implements  ActionListener{
     private Component who;

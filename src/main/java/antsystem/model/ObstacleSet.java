@@ -3,8 +3,6 @@
  *
  * Created on 7 de Outubro de 2006, 23:23
  *
- * To change this template, choose Tools | Template Manager
- * and open the template in the editor.
  */
 
 package antsystem.model;
@@ -20,7 +18,7 @@ import java.util.Set;
 
 /**
  *
- * @author danilo
+ * @author Danilo N Costa
  */
 public class ObstacleSet {
     Set<Shape> obstacles = new HashSet<Shape>();

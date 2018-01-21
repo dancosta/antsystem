@@ -3,19 +3,14 @@
  *
  * Created on 2 de Julho de 2006, 23:01
  *
- * To change this template, choose Tools | Template Manager
- * and open the template in the editor.
  */
 
 package antsystem.model;
-
-import antsystem.*;
 
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics2D;
 import java.awt.Point;
-import java.awt.Shape;
 import java.awt.geom.AffineTransform;
 import java.awt.geom.Ellipse2D;
 import java.awt.geom.Line2D;
@@ -24,7 +19,7 @@ import java.util.Random;
 
 /**
  *
- * @author danilo
+ * @author Danilo N Costa
  */
 public class Ant2 extends Actor{
     private boolean carringFood;

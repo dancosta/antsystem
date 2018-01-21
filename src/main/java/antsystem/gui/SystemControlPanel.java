@@ -6,15 +6,16 @@
 
 package antsystem.gui;
 
-import antsystem.helper.ActionSupport;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import javax.swing.SpinnerModel;
+
 import javax.swing.SpinnerNumberModel;
+
+import antsystem.helper.ActionSupport;
 
 /**
  *
- * @author  danilo
+ * @author  Danilo N Costa
  */
 public class SystemControlPanel extends javax.swing.JPanel {
     private ActionSupport actionSupport = new ActionSupport(this);

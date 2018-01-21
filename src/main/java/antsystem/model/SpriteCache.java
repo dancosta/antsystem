@@ -3,8 +3,6 @@
  *
  * Created on 2 de Julho de 2006, 20:01
  *
- * To change this template, choose Tools | Template Manager
- * and open the template in the editor.
  */
 
 package antsystem.model;
@@ -18,7 +16,7 @@ import javax.imageio.ImageIO;
 
 /**
  *
- * @author danilo
+ * @author  Danilo N Costa
  */
 public class SpriteCache {
     private Map<String,BufferedImage> loadedImages = new HashMap<String, BufferedImage>();

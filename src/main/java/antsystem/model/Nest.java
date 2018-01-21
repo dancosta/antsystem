@@ -3,8 +3,6 @@
  *
  * Created on 4 de Julho de 2006, 16:08
  *
- * To change this template, choose Tools | Template Manager
- * and open the template in the editor.
  */
 
 package antsystem.model;
@@ -18,7 +16,7 @@ import java.awt.geom.Rectangle2D;
 
 /**
  *
- * @author danilo
+ * @author Danilo N Costa
  */
 public class Nest extends Actor{
     

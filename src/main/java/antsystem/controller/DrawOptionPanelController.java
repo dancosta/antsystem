@@ -3,16 +3,11 @@
  *
  * Created on 9 de Outubro de 2006, 15:41
  *
- * To change this template, choose Tools | Template Manager
- * and open the template in the editor.
  */
 
 package antsystem.controller;
 
-import antsystem.gui.DrawOptionPanel;
-import antsystem.model.Environment;
 import java.awt.Graphics2D;
-import java.awt.Rectangle;
 import java.awt.Shape;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
@@ -20,7 +15,6 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseMotionListener;
 import java.awt.geom.AffineTransform;
-import java.awt.geom.Area;
 import java.awt.geom.GeneralPath;
 import java.awt.geom.Line2D;
 import java.awt.geom.Point2D;
@@ -28,9 +22,12 @@ import java.awt.geom.Rectangle2D;
 import java.util.ArrayList;
 import java.util.List;
 
+import antsystem.gui.DrawOptionPanel;
+import antsystem.model.Environment;
+
 /**
  *
- * @author danilo
+ * @author Danilo N Costa
  */
 public class DrawOptionPanelController {
     private DrawOptionPanel view;

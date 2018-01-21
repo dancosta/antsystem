@@ -3,8 +3,6 @@
  *
  * Created on 23 de Janeiro de 2007, 13:38
  *
- * To change this template, choose Tools | Template Manager
- * and open the template in the editor.
  */
 
 package antsystem.model;
@@ -14,7 +12,7 @@ import java.awt.geom.Point2D;
 
 /**
  *
- * @author danilo
+ * @author  Danilo N Costa
  */
 public class PheromoneSniffer {
     
