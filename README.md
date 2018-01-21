@@ -18,3 +18,12 @@ The software has a rich graphical interface for creating the environment: settin
 
 Here is an example: 
 ![screenshot](doc/img/ScreenShot1.jpg)
+
+-----
+
+<p align='center'>
+<strong> If you liked this project, plesase live a ★ =). It will motivate me to improve this project further.<br/>
+Feel free to open <a href='https://github.com/dancosta/antsystem/issues'> issues</a>, even for questions! </strong>  
+</p>
+
+
